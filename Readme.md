@@ -23,7 +23,7 @@ I've written a complete tutorial series for this application on The CalliCoder B
 	cd polling-app-server
 	```
 
-2. **Create MySQL database**
+2. **Create MySQL database** 
 
 	```bash
 	create database polling_app
